@@ -2,7 +2,7 @@
   "name": "myreads",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mohamedragaey.github.io/my-reads-react/public/",
+  "homepage": "https://mohamedragaey.github.io/my-reads-react/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.0-14",
     "@fortawesome/free-solid-svg-icons": "^5.1.0-11",
