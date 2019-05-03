@@ -12,23 +12,23 @@ self.__precacheManifest = [
     "url": "/my-reads-react/static/js/runtime~main.4b80520f.js"
   },
   {
-    "revision": "6bd6304931bf54ca43e2",
-    "url": "/my-reads-react/static/js/main.fbff0a14.chunk.js"
+    "revision": "981041751a504ce553a4",
+    "url": "/my-reads-react/static/js/main.7c6031b1.chunk.js"
   },
   {
-    "revision": "1a66219303a522c4ef28",
-    "url": "/my-reads-react/static/js/2.96e534a7.chunk.js"
+    "revision": "598bccbdd3508e0755f0",
+    "url": "/my-reads-react/static/js/2.cc578a7c.chunk.js"
   },
   {
-    "revision": "6bd6304931bf54ca43e2",
+    "revision": "981041751a504ce553a4",
     "url": "/my-reads-react/static/css/main.53242b93.chunk.css"
   },
   {
-    "revision": "1a66219303a522c4ef28",
+    "revision": "598bccbdd3508e0755f0",
     "url": "/my-reads-react/static/css/2.ca458d54.chunk.css"
   },
   {
-    "revision": "f92d43afaaa73a0b1971cdca22f2b6a7",
+    "revision": "f101e0d84afd242b4f96d50620eee294",
     "url": "/my-reads-react/index.html"
   }
 ];
